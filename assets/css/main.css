@@ -7,7 +7,7 @@
  */
 
 body {
-  background-color: #f2f2f2;
+  background-color: #f5f5f5;
     font-family: "Lato";
     font-weight: 300;
     font-size: 16px;
@@ -153,7 +153,7 @@ a:after {
 
 /* Header Wrap */
 #headerwrap {
-	background: url(../img/header-bg.jpg) no-repeat center top;
+	background: #1abc9c;
 	margin-top: 60px;
 	padding-top:140px;
 	text-align:center;
@@ -260,12 +260,13 @@ a:after {
 }
 
 .desc p {
-	color: #2f2f2f;
+	color: #000;
 }
 
 .desc t {
 	color: #34495e;
 	font-weight: 700;
+    font-size: 17px
 }
 
 .desc imp {
@@ -275,7 +276,8 @@ a:after {
 }
 
 .desc more {
-	color: #95a5a6;
+	color: #000;
+    
 }
 
 
